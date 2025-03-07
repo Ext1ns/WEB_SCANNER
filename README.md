@@ -1,6 +1,5 @@
 # Проект: Сканер уязвимостей для веб-сайтов
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Описание
@@ -15,15 +14,19 @@
 ## Установка
 1. Убедитесь, что у вас установлен Python 3.10 или выше.
 2. Клонируйте репозиторий:
-   ```git clone https://github.com/Ext1ns/vulnerability-scanner.git
+   ```
+   git clone https://github.com/Ext1ns/vulnerability-scanner.git
 3. Перейдите в директорию проекта:
-    ```cd WEB_SCANNER
+    ```
+    cd WEB_SCANNER
 4. Установите зависимости:
-    ```pip install -r requirements.txt
+    ```
+    pip install -r requirements.txt
    
 ## Использование
 1. Запустите сканер, указав URL сайта:
-    ```python scanner.py http://example.com
+    ```
+    python main.py http://example.com
    
 ## Пример вывода
 ```
