@@ -26,7 +26,7 @@
 ## Использование
 1. Запустите сканер, указав URL сайта:
     ```
-    python scanner.py http://example.com
+    python main.py http://example.com
    
 ## Пример вывода
 ```
